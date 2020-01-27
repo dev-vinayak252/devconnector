@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://lp_db-admin:mJU46pIAnJiJe47l@cluster0-dwwrh.mongodb.net/devconnector?retryWrites=true&w=majority",
+    "jwtSecret": "VinBABA252"
+}
